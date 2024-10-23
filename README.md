@@ -62,5 +62,5 @@ To handle non-stationarity, the following strategies can be used:
     ```
 
 ## References
-[(https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
+(https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
