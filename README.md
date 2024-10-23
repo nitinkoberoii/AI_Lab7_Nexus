@@ -45,20 +45,20 @@ To handle non-stationarity, the following strategies can be used:
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/rl-algorithms.git
-    cd rl-algorithms
+    git clone https://github.com/nitinkoberoii/AI_Lab7_Nexus.git
+    cd AI_Lab7_Nexus
     ```
 2. Run the MENACE implementation:
     ```bash
-    python menace.py
+    python menace-implementation.py
     ```
 3. Run the Binary Bandit implementation:
     ```bash
-    python binary_bandit.py
+    python binary-bandit.py
     ```
 4. Run the Non-Stationary Bandit implementation:
     ```bash
-    python non_stationary_bandit.py
+    python non-stationary-bandit.py
     ```
 
 ## References
