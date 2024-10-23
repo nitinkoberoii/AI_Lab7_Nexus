@@ -62,5 +62,5 @@ To handle non-stationarity, the following strategies can be used:
     ```
 
 ## References
-- MENACE Algorithm: [Link to reference paper or resource]
-- Binary Bandit and Non-Stationary Bandit: [Link to reference paper or resource]
+[(https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
+
